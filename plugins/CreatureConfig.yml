@@ -1,0 +1,335 @@
+Deer:
+    damage per star: 0.03
+    movement speed: 1.1
+    health per star: 0.2
+
+Boar:
+    damage per star: 0.03
+    movement speed: 1.1
+    health per star: 0.2
+Neck:
+    damage per star: 0.03
+    movement speed: 1.1
+    health per star: 0.2
+Surtling:
+    damage per star: 0.03
+    movement speed: 0.4
+    health per star: 1
+#### RRR Mini Bosses  ####
+Lox:
+    damage per star: 0.00
+    movement speed: 2.0
+    health per star: 0.05
+#### RRR Mini Bosses  ####
+Wolf:
+    damage per star: 0.02
+    movement speed: 1.3
+    health per star: 0.2
+#### RRR Mini Bosses  ####
+GoblinShaman:
+    damage per star: 0.005
+    movement speed: 1.1
+    health per star: 0.1
+#### RRR Mini Bosses  ####
+GoblinBrute:
+    damage per star: 0.005
+    movement speed: 1.1
+    health per star: 0.02
+#### RRR Mini Bosses  ####
+GoblinAcher:
+    damage per star: 0.005
+    movement speed: 1.1
+    health per star: 0.1
+#### RRR Mini Bosses  ####
+Goblin:
+    damage per star: 0.005
+    movement speed: 1.1
+    health per star: 0.1
+#### RRR Mini Bosses  ####
+Deathsquito:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.3
+#### RRR Mini Bosses  ####
+Fenring:
+    damage per star: 0.01
+    movement speed: 2
+    health per star: 0.1
+#### RRR Mini Bosses  ####
+Stonegolem:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.06
+#### RRR Mini Bosses  ####
+Hatchling:
+    damage per star: 0.06
+    attack speed per star: 0.01
+    movement speed: 0.8
+    health per star: 0.1
+#### RRR Mini Bosses  ####
+Wraith:
+    damage per star: 0.01
+    movement speed: 1.1
+    health per star: 0.3
+#### RRR Mini Bosses  ####
+Leech:
+    damage per star: 0.1
+    movement speed: 1.1
+    health per star: 0.2
+#### RRR Mini Bosses  ####
+Draugr_Elite:
+    damage per star: 0.04
+    movement speed: 1.1
+    health per star: 0.3
+#### RRR Mini Bosses  ####
+Draugr:
+    damage per star: 0.04
+    movement speed: 1.1
+    health per star: 0.3
+#### RRR Mini Bosses  ####
+Blob:
+    damage per star: 0.4
+    movement speed: 1.5
+    health per star: 0.5
+#### RRR Mini Bosses  ####
+Oozer:
+    damage per star: 0.4
+    movement speed: 1.5
+    health per star: 0.2
+#### RRR Mini Bosses  ####
+Skeleton_Poision:
+    damage per star: 0.1
+    movement speed: 1.1
+    health per star: 0.8
+#### RRR Mini Bosses  ####
+Skeleton:
+    damage per star: 0.1
+    movement speed: 1.1
+    health per star: 0.6
+#### RRR Mini Bosses  ####
+Troll:
+    damage per star: 0.05
+    movement speed: 1.1
+    health per star: 0.05
+#### RRR Mini Bosses  ####
+Greydwarf_shaman:
+    damage per star: 0.1
+    movement speed: 1.1
+    health per star: 0.3
+#### RRR Mini Bosses  ####
+Greydwarf_Elite:
+    damage per star: 0.2
+    movement speed: 1.1
+    health per star: 0.3
+#### RRR Mini Bosses  ####
+Greydwarf:
+    damage per star: 0.2
+    movement speed: 1.1
+    health per star: 0.4
+#### RRR Mini Bosses  ####
+Greyling:
+    damage per star: 0.2
+    movement speed: 1.1
+    health per star: 0.5
+#### RRR Mini Bosses  ####
+## Upir Grim - Meadows Daytime
+RRRN_UpirGrim:
+    damage per star: 0.15
+    movement speed: 1.0
+    health per star: 0.05
+## Zaine Evilian - Meadows Nighttime
+RRRN_ZaineEvilian:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Lazarus Autumn - Black Forest Daytime
+RRRN_LazarusAutumn:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Grail Thornheart - Black Forest Nighttime
+RRRN_GrailThornheart:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Crisenth Shadowsoul - Swamp Daytime
+RRRN_CrisenthShadowsoul:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Jayden Shadowmend - Swamp Nighttime
+RRRN_JaydenShadowmend:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Lux Frost - Mountains Daytime
+RRRN_LuxFrost:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Firion Winter - Mountains Nighttime
+RRRN_FirionWinter:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Echo Black - Plains Daytime
+RRRN_EchoBlack:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Mathian Serphent - Plains Nighttime
+RRRN_MathianSerphent:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Sceledrus Shadowend - Mistlands Daytime
+RRRN_SceledrusShadowend:
+    damage per star: 0.01
+    movement speed: 1.0
+    health per star: 0.5
+## Lazarus Deamonne - Mistlands Nighttime
+RRRN_LazarusDeamonne:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Lincoln Hunt - Deep North Daytime
+RRRN_LincolnHunt:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Draven Nox - Deep North Nighttime
+RRRN_DravenNox:
+    damage per star: 0.05
+    movement speed: 1.0
+    health per star: 0.5
+## Draven Nox - Deep North Nighttime
+RRRN_Theif:
+    damage per star: 0.2
+    movement speed: 1.1
+    health per star: 0.1
+## Draven Nox - Deep North Nighttime
+RRRM_DireWolf:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+## Draven Nox - Deep North Nighttime
+RRRM_GreaterFenring:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+## Draven Nox - Deep North Nighttime
+RRRM_IceDrake:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+## Draven Nox - Deep North Nighttime
+RRRM_FlameDrake:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+## Draven Nox - Deep North Nighttime
+RRRM_IceTroll:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Assassin:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime   
+RRRN_Brigand:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Friendly05:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Friendly10:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Friendly20:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Friendly25:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Friendly30:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Friendly35:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Friendly40:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Friendly45:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_FriendlyFemale0:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_FriendlyMale0:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_GreyWolf:
+    damage per star: 0.01
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Shadow:
+    damage per star: 0.005
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime
+RRRN_ShadowGuard:
+    damage per star: 0.005
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North1Nighttime  
+RRRN_ShadowMaster:
+    damage per star: 0.01
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_ShadowSentinel:
+    damage per star: 0.01
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_ShadowWarrior:
+    damage per star: 0.01
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime 
+RRRN_Stalker:
+    damage per star: 0.01
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime
+RRRM_RedDragon:
+    damage per star: 0.02
+    movement speed: 1.1
+    health per star: 0.1
+# Draven Nox - Deep North Nighttime

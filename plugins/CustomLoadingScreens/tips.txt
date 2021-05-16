@@ -1,0 +1,10 @@
+Press "R" to send out a sonar ping, super useful in dungeons!
+You can put a surtling core in a boats inventory then press shift for a 30 second boost!
+Press "E" to cancel your bow draw!
+Pick A Class By Offering items to Eikthyr Summon Area
+Reset your selected building parts orientation with "Y"
+Crouch to interact with signs and to name portals
+Crouch while going into a portal to teleport any tame animals in a 10 unit radius
+Dungeons will respawn after 7 ingame days (140 minutes)
+Press "B" with the building hammer equiped to enter build camera mode
+You can tame Greylings with silver necklaces to operate your kilns and smelters for you
