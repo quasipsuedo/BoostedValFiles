@@ -8,6 +8,6 @@
 
 3. Once that's done, click settings on the left bar, then the second option 'Browse Profile Folder'
 
-4. This will bring you to the Valheim instance you just installed. Open Bepinex, and place all the files in this repo in their respective folders.
+4. This will bring you to the Valheim profile directory. Bepinex should be installed there. Unpack the stuff in this repo in the right folders.
 
 5. Go back to r2modman and hit Play Modded! The server IP and PASS will load automatically.
