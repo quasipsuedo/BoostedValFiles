@@ -160,7 +160,8 @@
         { "Item": "AxeFlint",   "Rarity": [ 90, 10, 0, 0 ] },
         { "Item": "SpearFlint", "Rarity": [ 90, 10, 0, 0 ] },
         { "Item": "KnifeFlint", "Rarity": [ 90, 10, 0, 0 ] },
-        { "Item": "Bow",        "Rarity": [ 90, 10, 0, 0 ] }
+        { "Item": "Bow",        "Rarity": [ 90, 10, 0, 0 ] },
+		{ "Item": "PickaxeAntler", "Rarity": [ 90, 10, 0, 0 ] }
       ]
     },
     {
@@ -175,12 +176,7 @@
 		{ "Item": "ArmorLeatherLegsT1_Terraheim_AddNewSets_AddLeatherArmor",  "Rarity": [ 90, 10, 0, 0 ] }
       ]
     },
-    {
-      "Name": "Tier1Tools",
-      "Loot": [
-        { "Item": "PickaxeAntler", "Rarity": [ 99, 1, 0, 0 ] }
-      ]
-    },
+
     {
       "Name": "Tier1Everything",
       "Loot": [
@@ -214,7 +210,8 @@
         { "Item": "BowFineWood",       "Weight": 1, "Rarity": [ 85, 15, 0, 0 ] },
         { "Item": "KnifeChitin",       "Weight": 1, "Rarity": [ 85, 15, 0, 0 ] },
         { "Item": "SpearChitin",       "Weight": 1, "Rarity": [ 85, 15, 0, 0 ] },
-		{ "Item": "BattleaxeBronzeTerraheim", "Weight": 1, "Rarity": [ 85, 15, 0, 0 ] }
+		{ "Item": "BattleaxeBronzeTerraheim", "Weight": 1, "Rarity": [ 85, 15, 0, 0 ] },
+		{ "Item": "PickaxeBronze", "Rarity": [ 85, 15, 0, 0 ] }
       ]
     },
     {
@@ -237,13 +234,7 @@
         { "Item": "ShieldBronzeBuckler", "Rarity": [ 85, 15, 0, 0 ] }
       ]
     },
-    {
-      "Name": "Tier2Tools",
-      "Loot": [
-        { "Item": "PickaxeBronze", "Rarity": [ 85, 15, 0, 0 ] },
-        { "Item": "Cultivator",    "Rarity": [ 85, 15, 0, 0 ] }
-      ]
-    },
+
     {
       "Name": "Tier2Everything",
       "Loot": [
@@ -268,7 +259,9 @@
         { "Item": "AtgeirIron",     "Weight": 1, "Rarity": [ 40, 50, 9, 1 ] },
         { "Item": "SpearElderbark", "Weight": 1, "Rarity": [ 40, 50, 9, 1 ] },
 		{ "Item": "GreatswordIron", "Weight": 1, "Rarity": [ 40, 50, 9, 1 ] },
-		{ "Item": "KnifeIron", 		"Weight": 1, "Rarity": [ 40, 50, 9, 1 ] }
+		{ "Item": "KnifeIron", 		"Weight": 1, "Rarity": [ 40, 50, 9, 1 ] },
+		{ "Item": "BowHuntsman", 	"Weight": 1, "Rarity": [ 40, 50, 9, 1 ] },
+		{ "Item": "PickaxeIron", "Weight": 1, "Rarity": [ 40, 50, 9, 1 ] }
       ]
     },
     {
@@ -295,12 +288,7 @@
         { "Item": "ShieldIronTower", "Weight": 1, "Rarity": [ 40, 50, 9, 1 ] }
       ]
     },
-    {
-      "Name": "Tier3Tools",
-      "Loot": [
-        { "Item": "PickaxeIron", "Weight": 1, "Rarity": [ 40, 50, 9, 1 ] }
-      ]
-    },
+
     {
       "Name": "Tier3Everything",
       "Loot": [
